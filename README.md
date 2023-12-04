@@ -9,3 +9,4 @@ Una etiqueta anotada té. a més de la referència, la persona que ha creat l'et
 
 # Stash
 És un lloc on guardar canvis de manera temporal, per després tornar-los a recuperar.
+- Primer stash
